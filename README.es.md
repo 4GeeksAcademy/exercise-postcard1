@@ -1,5 +1,5 @@
 <!-- hide -->
-# La Postal 
+# La Postal el primer ejercicio
 <!-- endhide -->
 
 ¿A quién no le gustan las postales? Este es uno de tus primeros ejercicios (si no es el primero) y es divertido y relativamente fácil :)
